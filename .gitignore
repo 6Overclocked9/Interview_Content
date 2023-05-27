@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#My Custom Folders To be Ignored in the Source
+.vscode/
