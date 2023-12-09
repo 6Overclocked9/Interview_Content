@@ -1,0 +1,52 @@
+What is Function pointer and it's use (done)
+
+What is the difference between null pointer and void pointer (done)
+
+Pass array to function in c
+
+Program to find a button press
+
+Deep c knowledge is enough especially structures unions etc
+
+friend class 
+
+friend function
+
+virtual class 
+
+virtual mean 
+
+virtual function
+
+singleton
+
+operator overloading 
+
+smart pointers 
+
+inheritance 
+
+polymorphism 
+
+function overloading 
+
+virtual constructor / destructor 
+
+shallow copy / deep copy 
+
+vtable / vptr 
+
+static cast / dynamic cast
+
+vector 
+
+list
+
+what is thread what is multithreading 
+
+linkedlist using struct , class 
+
+overriding vs overloading  
+
+initalizer list (done)
+
