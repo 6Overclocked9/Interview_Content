@@ -8,37 +8,39 @@ Program to find a button press
 
 Deep c knowledge is enough especially structures unions etc
 
-friend class 
+friend class (done)
 
-friend function
+friend function (done)
 
-virtual class 
+virtual class (done)
 
-virtual mean 
+virtual mean (done) 
 
-virtual function
+virtual function (done)
 
-singleton
+singleton (done)
 
-operator overloading 
+operator overloading --> Complex operator+(Complex const& obj) (done)
 
 smart pointers 
 
-inheritance 
+inheritance (done)
 
-polymorphism 
+polymorphism (done) 
+	-->Runtime : Virtual Function
+	-->Compile Time : Function Overloading, Operator Overloading
+	
+function overloading (done)
 
-function overloading 
-
-virtual constructor / destructor 
+virtual constructor / destructor (done)
 
 shallow copy / deep copy 
 
-vtable / vptr 
+vtable / vptr (done)
 
 static cast / dynamic cast
 
-vector 
+vector (done)
 
 list
 
@@ -50,3 +52,8 @@ overriding vs overloading
 
 initalizer list (done)
 
+copy constructor v/s copy assignment operator (done)
+
+copy and swap idiom [CAS] (done)
+
+move constructor (done)
