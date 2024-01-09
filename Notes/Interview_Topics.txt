@@ -6,7 +6,7 @@ Pass array to function in c
 
 Program to find a button press
 
-Deep c knowledge is enough especially structures unions etc
+Deep c knowledge is enough especially structures unions etc (done)
 
 friend class (done)
 
@@ -34,7 +34,7 @@ function overloading (done)
 
 virtual constructor / destructor (done)
 
-shallow copy / deep copy 
+shallow copy / deep copy (done)
 
 vtable / vptr (done)
 
@@ -46,9 +46,9 @@ list
 
 what is thread what is multithreading 
 
-linkedlist using struct , class 
+linkedlist using struct , class (done)
 
-overriding vs overloading  
+overriding vs overloading  (done)
 
 initalizer list (done)
 
