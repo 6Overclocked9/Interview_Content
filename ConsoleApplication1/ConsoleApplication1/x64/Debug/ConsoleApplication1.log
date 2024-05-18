@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\Git\Interview_Content\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\Git\Interview_Content\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(29,9): message : consider using '%zd' in the format string
+D:\Git\Interview_Content\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\Git\Interview_Content\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30,9): message : consider using '%zd' in the format string
+D:\Git\Interview_Content\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\Git\Interview_Content\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(31,9): message : consider using '%zd' in the format string
+  ConsoleApplication1.vcxproj -> D:\Git\Interview_Content\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,75 @@
+class Node 
+{
+	public:
+		int data;
+		Node *next;
+	
+	Node()
+	{
+		next = nullptr;
+	}
+}
+
+
+class LinkedList
+{
+	Node *head;
+	
+	LinkedList()
+	{
+		head = nullptr;
+	}
+
+	void insert(int value)
+	{
+		Node *traverse = head;
+		
+		Node *temp = new Node;
+		temp->data=value;
+		temp->next=nullptr;
+		
+		if(head == nullptr)
+		{
+			head = temp;
+			return;
+		}
+		
+		while(traverse->next != nullptr)
+		{
+			traverse = traverse->next;
+		}
+		traverse->next = temp;
+	}
+	
+	void delete(Node *addr)
+	{
+		Node *traverse = head;
+		Node *last = nullptr;
+		if(head == addr)
+		{
+			delete addr;
+			head = nullptr;
+			return;
+		}
+		
+		while(traverse != addr)
+		{
+			last = traverse;
+			traverse = traverse->next;
+		}
+		last->next = traverse->next;
+		delete addr;
+	}
+}
+
+
+
+vectors 
+
+multithreading 
+
+linkedlist
+
+memory leak
+
+call virtual function in contructor 

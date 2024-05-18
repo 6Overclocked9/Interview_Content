@@ -1,0 +1,31 @@
+digital technologies --> portside, make apps for baker hughes 
+
+firmware automation / fpga 
+
+dsp processors / 
+
+OOPS
+
+basics 
+
+fpga basics 
+
+why go use dsp vs fpga 
+
+read around fpga programming 
+
+DAC 
+
+stepper motor how to get output 
+
+microprocessor  why over microcontroller 
+
+what is pipeline
+
+
+what stm32
+
+
+name few microcontrollers 
+
+

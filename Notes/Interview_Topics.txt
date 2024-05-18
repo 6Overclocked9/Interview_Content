@@ -57,3 +57,15 @@ copy constructor v/s copy assignment operator (done)
 copy and swap idiom [CAS] (done)
 
 move constructor (done)
+
+padding 
+
+bitwise operation 
+
+Semaphores
+
+makefile 
+
+arguments in shell script 
+
+$0 $1 $2 in shell scripting ??

@@ -1,0 +1,85 @@
+int display(int lenght,int breadth)
+{
+
+}
+
+int display(float lenght,float breadth)
+{
+
+}
+
+
+display(10,20);
+
+display(10.2,20.9);
+
+
+
+
+
+
+class shape
+{
+	private: 
+		
+	
+	virtual void display(int)
+	{
+	}
+
+}
+
+class circle : public shape
+{
+		void display(int)
+	{
+	}
+
+}
+
+shape *obj = new Circle;
+
+
+
+obj.display()
+
+
+int a,b;
+
+int *ptr 
+
+
+func(int a, int b)
+{
+	int *ptr = &a;
+	int *ptr1 = &b;
+	int *temp = new int;
+	*temp = *ptr;
+	*ptr = *ptr1;
+	*ptr1 = *temp;
+	delete temp;
+}
+
+arr[10];
+
+11
+
+vector[10] + 2 
+
+100 104 108
+
+list[10] + 2 
+
+
+static a
+
+func()
+{
+	static a;
+	++
+}
+
+
+
+
+

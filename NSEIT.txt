@@ -1,0 +1,94 @@
+struct dummy
+{
+	int data;     	4 bytes
+	double data2;	8 bytes
+	char data3[6];	6 bytes
+}
+
+24bytes 18bytes
+
+union dummy 
+{
+	int data;     	
+	double data2;	8 bytes
+	char data3[6];	
+}
+
+local variables garbage 
+
+func()
+{
+
+int a; 
+
+}
+
+
+extern global 0 a.cpp b.cpp
+
+int a 
+
+fun1()
+	a++ 1
+
+fun2()
+	a++ 2
+	
+	
+	
+static int b	
+
+
+fun1()
+	a++ 1
+
+fun2()
+	a++ 2
+	
+	
+	
+int a = 5;
+
+
+int a = 3;
+
+
+(struct dummy *)malloc(sizeof(dummy))
+
+
+(struct dummy *)malloc(int )
+
+
+
+
+
+
+
+int arr = [9,2,7,3,6,2,5,8,4];
+
+int *ptr = arr;
+
+printf("%d",*ptr)
+
+printf("%d",arr[1])
+
+printf("%d",*ptr+3)
+
+
+char *c = "cat";		// c
+
+c[1] = 'b'
+
+char arr[10] = "cat";	// cat\0
+
+
+ls | grep .cpp 
+
+
+.cpp 
+
+echo bcd.txt >> cat abc.txt
+
+sqlite3.db
+
+c linux db 

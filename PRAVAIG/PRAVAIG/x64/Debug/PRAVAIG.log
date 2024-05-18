@@ -1,0 +1,20 @@
+﻿  PRAVAIG.cpp
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(1,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(1,7): error C2146: syntax error: missing ';' before identifier 'Node'
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(1,11): error C2143: syntax error: missing ';' before '{'
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(1,11): error C2447: '{': missing function header (old-style formal list?)
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(6,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(6,8): error C2146: syntax error: missing ';' before identifier 'LinkedList'
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(6,18): error C2143: syntax error: missing ';' before '{'
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(6,18): error C2447: '{': missing function header (old-style formal list?)
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(76,8): error C2146: syntax error: missing ';' before identifier 'LinkedList'
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(76,8): error C2065: 'LinkedList': undeclared identifier
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(76,19): error C2146: syntax error: missing ';' before identifier 'obj2'
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(76,19): error C2065: 'obj2': undeclared identifier
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(78,2): error C2065: 'obj2': undeclared identifier
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(79,2): error C2065: 'obj2': undeclared identifier
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(80,2): error C2065: 'obj2': undeclared identifier
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(81,2): error C2065: 'obj2': undeclared identifier
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(82,2): error C2065: 'obj2': undeclared identifier
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(83,2): error C2065: 'obj2': undeclared identifier
+D:\Git\practice\PRAVAIG\PRAVAIG\PRAVAIG.cpp(84,2): error C2065: 'obj2': undeclared identifier
